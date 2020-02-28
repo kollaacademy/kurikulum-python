@@ -248,4 +248,4 @@
   </tr>
 </table>
 
-Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-python/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-python/wiki)
+Lihat [Materi Ajar](https://github.com/kollaacademy/kurikulum-python/wiki) di [Wiki](https://github.com/kollaacademy/kurikulum-python/wiki)
