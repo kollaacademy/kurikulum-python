@@ -1,4 +1,4 @@
-<h1>PYTHON DEVELOPER</h1>
+<h1>Python Programmer</h1>
 
 <h2>Silabus</h2>
 
@@ -6,7 +6,7 @@
   <tbody>
     <tr>
       <td><strong>Nama Program Pelatihan</strong></td>
-      <td>Python Developer</td>
+      <td>Python Programmer</td>
     </tr>
     <tr>
       <td><strong>Kode Program Pelatihan</strong></td>
