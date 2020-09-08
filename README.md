@@ -85,7 +85,7 @@
   </tbody>
 </table>
 
-<h2>Kurikulum</h2>
+<h2>Silabus</h2>
 
 <table>
   <tr>
